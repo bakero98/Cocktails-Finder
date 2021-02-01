@@ -11,4 +11,4 @@ Application consists of :
 - View Binding
 - Recycle View
 
-[![Demo Shared Element](https://s2.gifyu.com/images/ezgif.com-gif-maker-29f348a4e92a60990.gif)](https://s2.gifyu.com/images/ezgif.com-gif-maker-29f348a4e92a60990.gif)
+[![Demo Shared Element](https://s2.gifyu.com/images/ezgif.com-gif-maker-3f6fa8535271f16ef.md.gif)](https://s2.gifyu.com/images/ezgif.com-gif-maker-3f6fa8535271f16ef.md.gif)
